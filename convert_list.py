@@ -1,0 +1,5 @@
+f=open("w3resources2.txt","r")
+a=f.read()
+print(a)
+b=a.split("\n")
+print(b)
